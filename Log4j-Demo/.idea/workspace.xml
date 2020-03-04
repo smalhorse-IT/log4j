@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3b51a32-9625-4bcf-853a-9f223bf0c92f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcSat5WnKSwKtAReY9CZZthy0V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.54367816" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zixue.mazz.log" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\Log4j-Demo\src\main" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b51a32-9625-4bcf-853a-9f223bf0c92f" name="Default Changelist" comment="" />
+      <created>1583240455970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583240455970</updated>
+    </task>
+    <task id="LOCAL-00001" summary="springmvc整合log4j">
+      <created>1583324626384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583324626385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="springmvc整合log4j" />
+    <option name="LAST_COMMIT_MESSAGE" value="springmvc整合log4j" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="24" key="#HTTP_Proxy" timestamp="1583250224590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1583250224590" />
+    <state x="275" y="24" key="#Notifications" timestamp="1583317490914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583317490914" />
+    <state x="437" y="204" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583294057670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="204" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1583294057670" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1583314489372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583314489372" />
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1583324611875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583324611875" />
+    <state x="490" y="167" key="FileChooserDialogImpl" timestamp="1583326753872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="32" key="FileChooserDialogImpl/0.0.1366.518@0.0.1366.518" timestamp="1583326162992" />
+    <state x="490" y="167" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583326753872" />
+    <state width="1322" height="200" key="GridCell.Tab.0.bottom" timestamp="1583324457711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.bottom/0.0.1366.518@0.0.1366.518" timestamp="1583320851069" />
+    <state width="1322" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583324457711" />
+    <state width="1322" height="200" key="GridCell.Tab.0.center" timestamp="1583324457710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.center/0.0.1366.518@0.0.1366.518" timestamp="1583320851069" />
+    <state width="1322" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583324457710" />
+    <state width="1322" height="200" key="GridCell.Tab.0.left" timestamp="1583324457710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.left/0.0.1366.518@0.0.1366.518" timestamp="1583320851069" />
+    <state width="1322" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583324457710" />
+    <state width="1322" height="200" key="GridCell.Tab.0.right" timestamp="1583324457710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="190" key="GridCell.Tab.0.right/0.0.1366.518@0.0.1366.518" timestamp="1583320851069" />
+    <state width="1322" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583324457710" />
+    <state x="164" y="0" key="SettingsEditor" timestamp="1583326879424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="164" y="0" key="SettingsEditor/0.0.1366.518@0.0.1366.518" timestamp="1583326148406" />
+    <state x="164" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583326879424" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1583327263638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583327263638" />
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1583294004490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583294004490" />
+    <state x="291" y="115" width="759" height="548" key="find.popup" timestamp="1583324138422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="291" y="115" width="759" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583324138422" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1583252239493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583252239493" />
+    <state x="346" y="35" width="672" height="483" key="search.everywhere.popup" timestamp="1583322456916">
+      <screen x="0" y="0" width="1366" height="518" />
+    </state>
+    <state x="346" y="35" width="672" height="483" key="search.everywhere.popup/0.0.1366.518@0.0.1366.518" timestamp="1583322456916" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583253707206" />
+  </component>
+</project>
